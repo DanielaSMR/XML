@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<hechosHistoricos>
+    <hecho descripcion="IBM Da a conocer el PC">
+        <fecha>
+            <anyo>1981</anyo>
+            <mes>8</mes>
+            <dia>12</dia>
+        </fecha>
+    </hecho>
+    <hecho descripcion=''>
+        <fecha>
+            <año>1981</año>
+            <mes></mes>
+            <dia></dia>
+        </fecha>
+    </hecho>
+    <hecho descripcion=''>
+        <fecha>
+            <año>1981</año>
+            <mes></mes>
+            <dia></dia>
+        </fecha>
+    </hecho>
+</hechosHistoricos>
