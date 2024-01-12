@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<arboles>
+    <arbol>
+        <titulo>Acer monspessulanum</titulo>
+        <nombre>Arce de Montpellier, Arce menor</nombre>
+        <Vegetacion>Caducifolio</Vegetacion>
+        <Altura>De 6 a 10 metros</Altura>
+        <FormaYEstructura> Copa esférica. Tronco principal recto con bifurcaciones.Ramaje colgante</FormaYEstructura>
+        <ColorEnPrimavera> Haz verde brillante, envés verde blanquecino</ColorEnPrimavera>
+        <ResistenciaALasHeladas>Heladas fuertes (hasta -15ºC)</ResistenciaALasHeladas>
+    </arbol>
+    <arbol>
+        <nombre></nombre>
+        <Vegetacion></Vegetacion>
+        <Altura></Altura>
+        <FormaYEstructura></FormaYEstructura>
+        <ColorEnPrimavera></ColorEnPrimavera>
+        <ResistenciaALasHeladas></ResistenciaALasHeladas>
+    </arbol>
+    <arbol>
+        <nombre></nombre>
+        <Vegetacion></Vegetacion>
+        <Altura></Altura>
+        <FormaYEstructura></FormaYEstructura>
+        <ColorEnPrimavera></ColorEnPrimavera>
+        <ResistenciaALasHeladas></ResistenciaALasHeladas>
+    </arbol>
+    <arbol>
+        <nombre></nombre>
+        <Vegetacion></Vegetacion>
+        <Altura></Altura>
+        <FormaYEstructura></FormaYEstructura>
+        <ColorEnPrimavera></ColorEnPrimavera>
+        <ResistenciaALasHeladas></ResistenciaALasHeladas>
+    </arbol>
+</arboles>
