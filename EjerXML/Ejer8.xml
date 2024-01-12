@@ -6,32 +6,79 @@
         <nombre>Arce de Montpellier, Arce menor</nombre>
         <Vegetacion>Caducifolio</Vegetacion>
         <Altura>De 6 a 10 metros</Altura>
-        <FormaYEstructura> Copa esférica. Tronco principal recto con bifurcaciones.Ramaje colgante</FormaYEstructura>
-        <ColorEnPrimavera> Haz verde brillante, envés verde blanquecino</ColorEnPrimavera>
-        <ResistenciaALasHeladas>Heladas fuertes (hasta -15ºC)</ResistenciaALasHeladas>
+        <FormaYEstructura>
+            <copa>Copa esférica.</copa> 
+            <tronco>Tronco principal recto con bifurcaciones.</tronco>
+            <ramaje>Ramaje colgante</ramaje>
+        </FormaYEstructura>
+        <Color> 
+            <Primavera>Haz verde brillante, envés verde blanquecino</Primavera>
+            <Verano></Verano>
+            <Otoño></Otoño>
+            <Invierno></Invierno>
+        </Color>
+        <ResistenciaALasHeladas tipo="Heladas fuertes">
+            <temperatura>(hasta -15ºC)</temperatura>
+        </ResistenciaALasHeladas>
     </arbol>
     <arbol>
-        <nombre></nombre>
-        <Vegetacion></Vegetacion>
-        <Altura></Altura>
-        <FormaYEstructura></FormaYEstructura>
-        <ColorEnPrimavera></ColorEnPrimavera>
-        <ResistenciaALasHeladas></ResistenciaALasHeladas>
+        <titulo>Acer monspessulanum</titulo>
+        <nombre>Arce de Montpellier, Arce menor</nombre>
+        <Vegetacion>Caducifolio</Vegetacion>
+        <Altura>De 6 a 10 metros</Altura>
+        <FormaYEstructura>
+            <copa>Copa esférica.</copa> 
+            <tronco>Tronco principal recto con bifurcaciones.</tronco>
+            <ramaje>Ramaje colgante</ramaje>
+        </FormaYEstructura>
+        <Color> 
+            <Primavera>Haz verde brillante, envés verde blanquecino</Primavera>
+            <Verano></Verano>
+            <Otoño></Otoño>
+            <Invierno></Invierno>
+        </Color>
+        <ResistenciaALasHeladas tipo="Heladas fuertes">
+            <temperatura>(hasta -15ºC)</temperatura>
+        </ResistenciaALasHeladas>
     </arbol>
     <arbol>
-        <nombre></nombre>
-        <Vegetacion></Vegetacion>
-        <Altura></Altura>
-        <FormaYEstructura></FormaYEstructura>
-        <ColorEnPrimavera></ColorEnPrimavera>
-        <ResistenciaALasHeladas></ResistenciaALasHeladas>
+        <titulo>Acer monspessulanum</titulo>
+        <nombre>Arce de Montpellier, Arce menor</nombre>
+        <Vegetacion>Caducifolio</Vegetacion>
+        <Altura>De 6 a 10 metros</Altura>
+        <FormaYEstructura>
+            <copa>Copa esférica.</copa> 
+            <tronco>Tronco principal recto con bifurcaciones.</tronco>
+            <ramaje>Ramaje colgante</ramaje>
+        </FormaYEstructura>
+        <Color> 
+            <Primavera>Haz verde brillante, envés verde blanquecino</Primavera>
+            <Verano></Verano>
+            <Otoño></Otoño>
+            <Invierno></Invierno>
+        </Color>
+        <ResistenciaALasHeladas tipo="Heladas fuertes">
+            <temperatura>(hasta -15ºC)</temperatura>
+        </ResistenciaALasHeladas>
     </arbol>
     <arbol>
-        <nombre></nombre>
-        <Vegetacion></Vegetacion>
-        <Altura></Altura>
-        <FormaYEstructura></FormaYEstructura>
-        <ColorEnPrimavera></ColorEnPrimavera>
-        <ResistenciaALasHeladas></ResistenciaALasHeladas>
+        <titulo>Acer monspessulanum</titulo>
+        <nombre>Arce de Montpellier, Arce menor</nombre>
+        <Vegetacion>Caducifolio</Vegetacion>
+        <Altura>De 6 a 10 metros</Altura>
+        <FormaYEstructura>
+            <copa>Copa esférica.</copa> 
+            <tronco>Tronco principal recto con bifurcaciones.</tronco>
+            <ramaje>Ramaje colgante</ramaje>
+        </FormaYEstructura>
+        <Color> 
+            <Primavera>Haz verde brillante, envés verde blanquecino</Primavera>
+            <Verano></Verano>
+            <Otoño></Otoño>
+            <Invierno></Invierno>
+        </Color>
+        <ResistenciaALasHeladas tipo="Heladas fuertes">
+            <temperatura>(hasta -15ºC)</temperatura>
+        </ResistenciaALasHeladas>
     </arbol>
 </arboles>
